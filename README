@@ -1,0 +1,17 @@
+# Lab1_Ashesi_Premier_League_[YourID]
+
+Name:Maureen Sedinam Agyei
+ID:71682028
+Lab Number:1
+
+## Description
+Java program for the Ashesi Premier League player management system.
+It reads player details, determines category, position, eligibility, lineup, and prints a player report.
+
+##
+This assignment covers the first three topics for the course
+
+
+## Files
+- `PlayerSelection.java` → Main program
+- `README.md` → This file
